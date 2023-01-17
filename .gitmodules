@@ -1,3 +1,4 @@
 [submodule "Lab1"]
 	path = MD-Labs-1
 	url = https://github.com/lqbrqt/MD-Labs-1
+	branch = main
